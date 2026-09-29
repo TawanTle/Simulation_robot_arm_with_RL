@@ -1,0 +1,2 @@
+﻿Run_ID,Model,Alpha,Gamma,Epsilon_Decay,Training_Timesteps,Training_Episodes,Training_Time_s,Evaluation_Episodes,Mean_Reward,Std_Reward,Success_Rate_pct,Mean_Episode_Length,Mean_Initial_Distance_cm,Mean_Final_Distance_cm,Total_Evaluation_Time_s,Mean_Episode_Time_s,Mean_Inference_Time_ms,Model_Path
+20260928_224825,PPO,0.0003,0.99,N/A,100000,893,347.9102563999986,100,299.046287,119.418729,31.0,115.05,20.04049,1.310223,7.172937,0.071541,0.489795,C:\Users\tawan\Learningtothefuture\Robot_arm_sim_RL\models\ppo\best\best_model.zip

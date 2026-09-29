@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# โมเดลและ Checkpoint
+models/
+
+# Replay Buffer
+*.pkl
+
+# โมเดล ZIP ที่อยู่หน้าโฟลเดอร์
+robotic_arm_3dof_*.zip

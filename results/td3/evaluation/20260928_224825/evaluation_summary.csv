@@ -1,0 +1,2 @@
+﻿Run_ID,Model,Alpha,Gamma,Epsilon_Decay,Training_Timesteps,Training_Episodes,Training_Time_s,Evaluation_Episodes,Mean_Reward,Std_Reward,Success_Rate_pct,Mean_Episode_Length,Mean_Initial_Distance_cm,Mean_Final_Distance_cm,Total_Evaluation_Time_s,Mean_Episode_Time_s,Mean_Inference_Time_ms,Model_Path
+20260928_224825,TD3,0.0003,0.99,N/A,100000,837,1649.04716490001,100,273.970082,108.376208,17.0,127.87,20.04049,1.929436,7.040638,0.070208,0.41068,C:\Users\tawan\Learningtothefuture\Robot_arm_sim_RL\models\td3\best\best_model.zip
